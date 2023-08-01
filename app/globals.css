@@ -1,0 +1,7 @@
+:root {
+  --color-yellow: #fffae3;
+  --color-green: #c1d9d0;
+  --color-red: #f75454;
+  --max-size: 500px;
+  background-color: var(--color-yellow);
+}
